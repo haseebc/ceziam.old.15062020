@@ -223,6 +223,7 @@ DEPENDENCIES
   listen (~> 3.0.5)
   meta-tags
   pg (~> 0.21)
+  pry
   pry-byebug
   pry-rails
   puma
