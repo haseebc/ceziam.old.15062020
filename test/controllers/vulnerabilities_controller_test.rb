@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class VulnerabilitieTest < ActiveSupport::TestCase
+class VulnerabilitiesControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end
