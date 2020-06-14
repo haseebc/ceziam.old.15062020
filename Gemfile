@@ -20,6 +20,15 @@ gem 'webpacker'
 # added by HC 31052020
 gem 'meta-tags'
 gem 'bourbon'
+# added by HC 14062020
+gem 'net-ssh'
+gem 'net-scp'
+gem 'crack'
+gem 'json'
+gem 'sidekiq'
+gem 'sidekiq-failures'
+gem 'sitemap_generator'
+gem 'figaro'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
